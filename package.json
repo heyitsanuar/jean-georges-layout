@@ -1,0 +1,36 @@
+{
+  "name": "jean-georges-layout",
+  "version": "1.0.0",
+  "description": "![Imgur](https://i.imgur.com/3WPPEJs.png) ![Imgur](https://i.imgur.com/2QNc9Tf.png) ![Imgur](https://i.imgur.com/ijUO3jQ.png)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyitsanuar/jean-georges-layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyitsanuar/jean-georges-layout/issues"
+  },
+  "homepage": "https://github.com/heyitsanuar/jean-georges-layout#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.24.5",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rev": "^8.1.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-usemin": "^0.3.29",
+    "webpack": "^4.15.1"
+  }
+}
